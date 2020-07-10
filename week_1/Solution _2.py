@@ -1,0 +1,6 @@
+N = input()
+print('   _~_    '*int(N))
+print('  (o o)   '*int(N))
+print(' /  V  \  '*int(N))
+print('/(  _  )\ '*int(N))
+print('  ^^ ^^   '*int(N))
